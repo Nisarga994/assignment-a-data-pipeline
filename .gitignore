@@ -9,3 +9,10 @@ data_large/
 reports/
 final_state.csv
 .pytest_cache/
+data/.ledger_encryption_key
+data/pipeline_stats.json
+data/interaction_ledger.db
+__pycache__/
+*.pyc
+data/*_backup.db
+data/*_backup.json
